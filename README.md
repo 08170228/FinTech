@@ -3,7 +3,7 @@
 * Major：Big Data Management
 * School：Soochow University
 ---
-+ # Homework
+# Homework
   + ## What do you think of Cloud Computing ?
     * HW1
   + ## Build a Website using Amazon EC2 with LAMP
