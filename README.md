@@ -19,7 +19,7 @@
     + 「車險」一般依據每位客戶過往發生車禍事故的理賠紀錄來評估承接保單的風險
 ---
 ## Homework
-  * *What do you think of Cloud Computing ?*
+  * *[What do you think of Cloud Computing ?](https://github.com/08170228/FinTech/blob/main/hw1/%E4%BD%9C%E6%A5%AD1.md)*
   * *Build a Website using Amazon EC2 with LAMP*
   * *Build a Website using Amazon S3(Versioning) and AWS Amplify*
   * *Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda*
