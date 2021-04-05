@@ -21,7 +21,7 @@
 ## Homework
   * *[What do you think of Cloud Computing ?](https://github.com/08170228/FinTech/blob/main/hw1/%E4%BD%9C%E6%A5%AD1.md)*
   * *[Build a Website using Amazon EC2 with LAMP](https://youtu.be/hxBZMcF-5uw)*
-  * *[Build a Website using Amazon S3(Versioning) and AWS Amplify]()*
+  * *[Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/WjOCJeli_cY)*
   * *[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda]()*
   * *[Create a Database using Amazon RDS or Amazon DynamoDB]()*
   * *[Create a Docker Container or Build your own Project Services]()*
