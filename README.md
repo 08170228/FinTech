@@ -23,5 +23,5 @@
   * *[Build a Website using Amazon EC2 with LAMP](https://youtu.be/hxBZMcF-5uw)*
   * *[Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/WjOCJeli_cY)*
   * *[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/oI50DVlIXOo)*
-  * *[Create a Database using Amazon RDS or Amazon DynamoDB]()*
+  * *[Create a Database using Amazon RDS or Amazon DynamoDB](https://www.youtube.com/watch?v=_0mu-QY6kPM)*
   * *[Create a Docker Container or Build your own Project Services]()*
